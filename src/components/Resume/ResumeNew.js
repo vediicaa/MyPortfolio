@@ -9,7 +9,7 @@ import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
 const resumeLink =
-  "C:\Users\vedica\Documents\GitHub\MyPortfolio\src\Assets\Vedica'sResume.pdf";
+  "https://github.com/vediicaa/MyPortfolio/blob/main/src/Assets/Vedica'sResume.pdf";
 
 function ResumeNew() {
   const [width, setWidth] = useState(1200);
