@@ -47,7 +47,7 @@ function Projects() {
               isBlog={false}
               title="To do list"
               description="Your daily task manager. Implemented with MongoDB database and Node.js sever for backend and HTML, CSS, Javascript and Bootstrap Templates for front-end"
-
+              ghLink="https://github.com/vediicaa/Todolist"
             />
           </Col>
 
